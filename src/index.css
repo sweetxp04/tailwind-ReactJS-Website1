@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700;800;900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: "Jost", sans-serif;
+}
+nav {
+    z-index: 10001 !important;
+}
+.gradientbg {
+    background: linear-gradient(172deg, #ee9ae5 0.53%, #5961f9 38.96%);
+}
+
+.img100 {
+    width: 100%;
+}
