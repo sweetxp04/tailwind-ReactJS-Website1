@@ -8,6 +8,7 @@ export default {
                 secondary: "#707070",
                 tartiary: "#EBEBEB",
                 pink: "#EE9AE5 ",
+                purple: "#9A7AF1",
             },
         },
     },
