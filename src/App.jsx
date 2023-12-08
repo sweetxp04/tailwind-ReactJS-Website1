@@ -5,6 +5,8 @@ import Improving from "./components/Improving";
 import Practice from "./components/Practice";
 import Pricing from "./components/Pricing";
 import Discount from "./components/Discount";
+import Footer from "./components/Footer";
+import Copyright from "./components/Copyright";
 function App() {
     return (
         <>
@@ -15,6 +17,8 @@ function App() {
             <Practice />
             <Pricing />
             <Discount />
+            <Footer />
+            <Copyright />
         </>
     );
 }
